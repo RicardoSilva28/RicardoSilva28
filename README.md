@@ -1,4 +1,14 @@
-## Hi there 👋
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RicardoSilva28/RicardoSilva28/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/RicardoSilva28/RicardoSilva28/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/RicardoSilva28/RicardoSilva28/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 <!--
 **RicardoSilva28/RicardoSilva28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
